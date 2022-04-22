@@ -26,7 +26,7 @@ In this context I will run all commands in CMD on Windows 10.
 - Install node modules: `npm install`
 - Run the project: `npm run dev`
 
-### Process
+## Process Strating From Scratch
 
 In this context I will run all commands in CMD on Windows 10.
 
